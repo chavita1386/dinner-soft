@@ -3,6 +3,7 @@ const dishes = [
     _id: 1,
     name: "Enchiladas",
     description: "Tortilla envuelta de queso y cebolla con chile",
+    imageUrl: "enchiladas.jpg",
     ingredients: [
       {
         _id: 1,
@@ -23,6 +24,7 @@ const dishes = [
     name: "Sopes",
     description:
       "A sope, also known as picadita is a traditional Mexican dish originating in the central and southern parts of Mexico",
+    imageUrl: "sopes.jpg",
     ingredients: [
       {
         _id: 1,
@@ -43,6 +45,7 @@ const dishes = [
     name: "Pozole",
     description:
       "Pozole, which means hominy, is a traditional soup or stew from Mexico",
+    imageUrl: "pozole.jpg",
     ingredients: [
       {
         _id: 1,
@@ -63,6 +66,7 @@ const dishes = [
     name: "Flautas",
     description:
       "Tortilla de maíz enrollada, rellena con diferentes ingredientes",
+    imageUrl: "flautas.jpg",
     ingredients: [
       {
         _id: 1,
